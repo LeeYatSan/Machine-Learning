@@ -9,7 +9,7 @@ https://class.coursera.org/ml/lecture/preview
 - Linear regression with multiple variables
 - Octave tutorial
 - Programming Exercise 1: Linear Regression
- 		Best and Most Recent Submission
+''' 		Best and Most Recent Submission
 		Score
 		100 / 100 points earned PASSED
 		Submitted on 6 七月 2015 在 7:35 晚上
@@ -21,6 +21,7 @@ https://class.coursera.org/ml/lecture/preview
 		5	Compute cost for multiple variables	0 / 0
 		6	Gradient descent for multiple variables	0 / 0
 		7	Normal equations	0 / 0
+'''
 
 ## Week 3 - Due 07/18: `DONE`
 - Logistic regression
